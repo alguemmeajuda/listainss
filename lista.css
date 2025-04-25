@@ -112,8 +112,9 @@ nav.menu-lateral.expandir .txt-link {
     margin: auto;
     margin-top: 50px;
     width: 1200px;
-    margin-right: 150px;
+    margin-right: 5%;
     text-align: center;
+    margin-left: 20%;
     
 }
 
@@ -137,5 +138,6 @@ th, td {
   
   #acoes{
     color: #588061;
+    cursor: pointer;
   }
 
